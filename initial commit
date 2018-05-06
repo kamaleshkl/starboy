@@ -57,3 +57,6 @@
 +# dotenv environment variables file
 +.env
 +
+
+#starbot-bot
++A Discord.js for PRO
